@@ -1,0 +1,103 @@
+
+images.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+title
+  rotate: false
+  xy: 1, 167
+  size: 400, 76
+  orig: 400, 76
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 1, 164
+  size: 400, 1
+  orig: 400, 1
+  offset: 0, 0
+  index: -1
+bluePad
+  rotate: false
+  xy: 1, 42
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+blueRing
+  rotate: false
+  xy: 123, 42
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+greenPad
+  rotate: false
+  xy: 245, 42
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+greenRing
+  rotate: false
+  xy: 403, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+orangePad
+  rotate: false
+  xy: 525, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+orangeRing
+  rotate: false
+  xy: 647, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+playButton
+  rotate: false
+  xy: 769, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+rankButton
+  rotate: false
+  xy: 891, 123
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+redPad
+  rotate: false
+  xy: 367, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+redRing
+  rotate: false
+  xy: 489, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+tap
+  rotate: false
+  xy: 611, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+dot
+  rotate: false
+  xy: 1013, 242
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
